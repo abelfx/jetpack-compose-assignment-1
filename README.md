@@ -1,2 +1,2 @@
-# jetpack-compose-assignment-1-
-University Course List App
+### Name               Id
+ABEL TESFA         UGR/3106/15
